@@ -135,5 +135,6 @@ public class SpielController {
         return "redirect:/spiel";
     }
 
+test
 
 } 
