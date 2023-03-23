@@ -1,7 +1,6 @@
 package gymhum.de;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
-d
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -135,6 +134,6 @@ public class SpielController {
         return "redirect:/spiel";
     }
 
-test
+
 
 } 
