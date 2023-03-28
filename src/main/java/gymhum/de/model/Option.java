@@ -15,5 +15,5 @@ public class Option {
     public boolean getWelcheOption() {
         return welcheOption;
     }
-//Guten Tag
+
 }
